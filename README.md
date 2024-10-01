@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I am Soumyadeep DAS
 
-- 🔭 I’m currently studying at Techno India University,West Bengal.
+- 🔭 I’m currently pursuing MCA at KIIT-Kalinga Institute of Industrial Technology.
 - 🌱 I’m currently learning AI/ML.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If your code works, then don't touch it.
